@@ -1,4 +1,6 @@
 NEUROANATOMICAL DELINEATION ANALYSIS OF BRAIN
+
+
 I developed an AI-powered neuroanatomical delineation software that leverages MRI scans to provide an ultra-precise, radiation-free, and cost-effective alternative to PET (Positron Emission Tomography) scans in certain diagnostic scenarios.
 
 🔴 Why Avoid PET(Positron Emission Tomography) Scans?
